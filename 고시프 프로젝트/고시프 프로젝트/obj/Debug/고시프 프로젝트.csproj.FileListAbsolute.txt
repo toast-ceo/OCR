@@ -1,0 +1,22 @@
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\bin\Debug\고시프 프로젝트.exe.config
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\bin\Debug\고시프 프로젝트.exe
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\bin\Debug\고시프 프로젝트.pdb
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\obj\Debug\고시프 프로젝트.csprojAssemblyReference.cache
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\obj\Debug\고시프_프로젝트.Properties.Resources.resources
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\obj\Debug\고시프 프로젝트.csproj.GenerateResource.cache
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\obj\Debug\고시프 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\obj\Debug\고시프 프로젝트.exe
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\obj\Debug\고시프 프로젝트.pdb
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\obj\Debug\고시프_프로젝트.menu.resources
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\bin\Debug\x64\liblept172.dll
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\bin\Debug\x64\libtesseract304.dll
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\bin\Debug\x86\liblept172.dll
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\bin\Debug\x86\libtesseract304.dll
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\bin\Debug\Tesseract.dll
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\bin\Debug\Tesseract.xml
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\obj\Debug\고시프_프로젝트.manager.resources
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\obj\Debug\고시프 프로젝트.csproj.CopyComplete
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\obj\Debug\고시프_프로젝트.user.resources
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\bin\Debug\Newtonsoft.Json.dll
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\bin\Debug\Newtonsoft.Json.xml
+C:\Users\issac\source\repos\고시프 프로젝트\고시프 프로젝트\obj\Debug\고시프_프로젝트.Information_check.resources
